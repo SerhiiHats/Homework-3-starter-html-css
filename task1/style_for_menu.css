@@ -1,0 +1,16 @@
+.main-menu {
+    height: 40px;
+    background: blue;
+    color: black;
+}
+
+.element-main-menu {
+    height: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-right: black solid 2px;
+}
+
+a {
+    color: white;
+}

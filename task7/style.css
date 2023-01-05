@@ -1,0 +1,101 @@
+.block-write-course {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.block-line-social-menu {
+    background: grey;
+    height: 100px;
+    margin: 0 0 100px 0;
+}
+
+.logo-in-social-menu {
+    height: 80px;
+    padding: 10px;
+    background: grey;
+    width: 170px;
+    margin: 0 0 0 80px;
+    float: left;
+}
+
+.image-contact-in-social-menu {
+    height: 13px;
+    width: 13px;
+    padding: 45px 5px 42px 10px;
+    background: grey;
+    float: right;
+}
+
+.contact-in-social-menu {
+    height: 14px;
+    background: grey;
+    width: 100px;
+    padding: 43px 10px 43px 5px;
+    float: right;
+}
+
+.button-in-social-menu {
+    height: 35px;
+    background: grey;
+    width: 180px;
+    padding: 33px 50px 32px 5px;
+    float: right;
+}
+
+.button-radius {
+    background: #f9a701;
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title{
+    width: 550px;
+    margin: auto;
+}
+
+.inner-title{
+    width: 95%;
+    margin: auto;
+    color: #f9a701;
+    font-size: 38px;
+}
+.inner-title-2{
+    width: 55%;
+    margin: auto;
+    padding: 20px 0 40px 0;
+}
+
+.line-for-button-in-title{
+    width: 460px;
+    margin: auto;
+}
+
+.button-in-title-1{
+    background: #f9a701;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 25px;
+    margin: 0 15px;
+}
+
+.button-in-title-2{
+    background: #f9a701;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 46px;
+    border-radius: 25px;
+    margin: 0 15px;
+}
+
+

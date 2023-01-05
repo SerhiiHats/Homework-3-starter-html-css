@@ -1,0 +1,32 @@
+.menu-social{
+    height: 100px;
+    background: gold;
+}
+
+.social-block{
+    width: 32px;
+    height: 32px;
+    padding: 9px;
+    margin: 25px;
+    border: black solid 1px;
+}
+
+.facebook-panel {
+    background: blue;
+    display: inline-block;
+}
+
+.instagram-panel {
+    background: pink;
+    display: inline-block;
+}
+
+.twitter-panel {
+    background: aqua;
+    display: inline-block;
+}
+
+.youtube-panel {
+    background: red;
+    display: inline-block;
+}

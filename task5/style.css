@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+    padding: 20px;
+    background: lightgrey;
+    font-family: Arial, sans-serif;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+button{
+    /*padding: 12px;*/
+    background: lightgrey;
+    border: none;
+    width: 100px;
+    padding: 11px 0;
+    text-align: center;
+}
+
+.title-word-spacing{
+    word-spacing: 27px;
+}
+
+.title-letter-spacing{
+    letter-spacing: 7px;
+}
+
+.button-text-right{
+    text-align: right;
+}
+
+.font-italic{
+    font-size: 30px;
+    font-style: italic;
+    background: olivedrab;
+}
+
+.font-bold{
+    font-size: 20px;
+    font-weight: bold;
+    background: deepskyblue;
+}
+
+.text-indent{
+    text-indent: 70px;
+    background: lightcoral;
+}
